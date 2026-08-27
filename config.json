@@ -5,14 +5,14 @@
       "id": "Lnik1",
       "name": "Nguồn 1",
       "category": "Local",
-      "url": "https://example.com",
+      "url": "https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/api/iptv/link1.m3u",
       "enabled": true
     },
     {
       "id": "Link2",
       "name": "Nguồn 2",
       "category": "Sports",
-      "url": "https://example.com",
+      "url": "https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/api/iptv/link2.m3u",
       "enabled": true
     }
   ]
