@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "playlists": [
+    {
+      "id": "Lnik1",
+      "name": "Nguồn 1",
+      "category": "Local",
+      "url": "https://example.com",
+      "enabled": true
+    },
+    {
+      "id": "Link2",
+      "name": "Nguồn 2",
+      "category": "Sports",
+      "url": "https://example.com",
+      "enabled": true
+    }
+  ]
