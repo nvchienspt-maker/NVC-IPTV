@@ -4,15 +4,22 @@
     {
       "id": "Lnik1",
       "name": "Nguồn 1",
-      "category": "Local",
+      "category": "IPTV1",
       "url": "https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/api/iptv/link1.m3u",
       "enabled": true
     },
     {
       "id": "Link2",
       "name": "Nguồn 2",
-      "category": "Sports",
+      "category": "IPTV2",
       "url": "https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/api/iptv/link2.m3u",
+      "enabled": true
+    },
+    {
+      "id": "Link3",
+      "name": "Nguồn 3",
+      "category": "IPTV3",
+      "url": "https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/api/iptv/link3.m3u",
       "enabled": true
     }
   ]
