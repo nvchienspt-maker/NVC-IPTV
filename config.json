@@ -2,14 +2,14 @@
   "version": "1.0",
   "playlists": [
     {
-      "id": "Lnik1",
+      "id": "Link0",
       "name": "Nguồn chính",
       "category": "IPTV1",
       "url": "https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/api/iptv/link0.m3u",
       "enabled": true
     },
     {
-      "id": "Lnik1",
+      "id": "Link1",
       "name": "Nguồn 1",
       "category": "IPTV1",
       "url": "https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/api/iptv/link1.m3u",
@@ -30,3 +30,4 @@
       "enabled": true
     }
   ]
+}
