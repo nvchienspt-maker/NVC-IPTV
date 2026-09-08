@@ -19,7 +19,7 @@
       "id": "Link2",
       "name": "Nguồn 2",
       "category": "IPTV2",
-      "url": "https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/api/iptv/link2.m3u",
+      "url": "https://raw.githubusercontent.com/vietng228/m3u/refs/heads/main/m3u.m3u",
       "enabled": true
     }
   ]
