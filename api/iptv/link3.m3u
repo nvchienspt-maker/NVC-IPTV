@@ -3,7 +3,7 @@
 #KODIPROP:inputstream=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://nvc-proxy.vercel.app/https://vietmitv-stream.viet-ng228.workers.dev/channel?group=VTVcab&name=ON+FOOTBALL&kind=license
+#KODIPROP:inputstream.adaptive.license_key=ee81a4d6a5545cb782ebb5cc5e47bdd6:2f1620d76eac3991f9d38eb8f6d8d8dd
 https://vietmitv-stream.viet-ng228.workers.dev/channel?group=VTVcab&name=ON+FOOTBALL
 
 #EXTINF:-1 tvg-id="onsportsnews" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/vietng228/m3u/main/logos/onsportsnews.png",ON SPORTS NEWS
