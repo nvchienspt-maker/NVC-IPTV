@@ -21,13 +21,6 @@
       "category": "IPTV2",
       "url": "https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/api/iptv/link2.m3u",
       "enabled": true
-    },
-    {
-      "id": "Link3",
-      "name": "Nguồn 3",
-      "category": "IPTV3",
-      "url": "https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/api/iptv/link3.m3u",
-      "enabled": true
     }
   ]
 }
