@@ -1,7 +1,6 @@
 #EXTINF:-1 tvg-id="onfootball" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/vietng228/m3u/main/logos/onfootball.png",ON FOOTBALL
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee81a4d6a5545c5f82eba5cc5e47bd5b:2f1620db6eac3931f9ed38eb4efad8dd
 https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/api/mpd/ONFOOTBALL.mpd
