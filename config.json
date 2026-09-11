@@ -5,7 +5,7 @@
       "id": "Link0",
       "name": "Nguồn chính",
       "category": "IPTV1",
-      "url": "https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/api/iptv/link0.m3u",
+      "url": "https://raw.githubusercontent.com/vietng228/m3u/refs/heads/main/m3u.m3u",
       "enabled": true
     },
     {
@@ -19,14 +19,7 @@
       "id": "Link2",
       "name": "Nguồn 2",
       "category": "IPTV2",
-      "url": "https://raw.githubusercontent.com/vietng228/m3u/refs/heads/main/m3u.m3u",
-      "enabled": true
-    },
-    {
-      "id": "Link3",
-      "name": "Nguồn 3",
-      "category": "IPTV2",
-      "url": "https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/api/iptv/link3.m3u",
+      "url": "https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/api/iptv/link0.m3u",
       "enabled": true
     }
   ]
