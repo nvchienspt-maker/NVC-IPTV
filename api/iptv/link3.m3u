@@ -4,4 +4,4 @@
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee81a4d6a5545c5f82eba5cc5e47bd5b:2f1620db6eac3931f9ed38eb4efad8dd
-https://vietmitv-stream.viet-ng228.workers.dev/channel?group=VTVcab&name=ON+FOOTBALL
+https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/api/mpd/ONFOOTBALL.mpd
