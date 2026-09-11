@@ -3,8 +3,8 @@
   "playlists": [
     {
       "id": "Link0",
-      "name": "Nguồn chính",
-      "category": "IPTV1",
+      "name": "Chính",
+      "category": "IPTV0",
       "url": "https://raw.githubusercontent.com/vietng228/m3u/refs/heads/main/m3u.m3u",
       "enabled": true
     },
