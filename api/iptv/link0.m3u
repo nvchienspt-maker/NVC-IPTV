@@ -40,32 +40,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=176
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=182
 
-#EXTINF:-1 tvg-logo="https://vietmitv.id.vn/logos/20261005/onsports.png" tvg-id="onsports" tvg-name="ON SPORTS" group-title="VTVcab",ON SPORTS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
-https://vietmitv.id.vn/c.php?k=48a21fd
-#EXTINF:-1 tvg-logo="https://vietmitv.id.vn/logos/20261005/onsportsplus.png" tvg-id="onsportsplus" tvg-name="ON SPORTS+" group-title="VTVcab",ON SPORTS+
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
-https://vietmitv.id.vn/c.php?k=be48ef9
-#EXTINF:-1 tvg-logo="https://vietmitv.id.vn/logos/20261005/onfootball.png" tvg-id="onfootball" tvg-name="ON FOOTBALL" group-title="VTVcab",ON FOOTBALL
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://vietmitv.id.vn/tv/key.php?k=fdccffe
-https://vietmitv.id.vn/c.php?k=d53ed82
-#EXTINF:-1 tvg-logo="https://vietmitv.id.vn/logos/20261005/onsportsnews.png" tvg-id="onsportsnews" tvg-name="ON SPORTS NEWS" group-title="VTVcab",ON SPORTS NEWS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://vietmitv.id.vn/tv/key.php?k=7c21a4b
-https://vietmitv.id.vn/c.php?k=aac3295
+
 
 #EXTINF:-1 tvg-id="ongolf" group-title="📺 VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-golf.jpg", On Golf
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
