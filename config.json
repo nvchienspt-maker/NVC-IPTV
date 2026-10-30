@@ -7,6 +7,13 @@
       "category": "IPTV1",
       "url": "https://github.com/vietng228/m3u/raw/refs/heads/main/vxm.enc",
       "enabled": true
+    },
+    {
+      "id": "Link2",
+      "name": "Nguồn 2",
+      "category": "IPTV2",
+      "url": "https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/api/iptv/link0.m3u",
+      "enabled": true
     }
   ]
 }
