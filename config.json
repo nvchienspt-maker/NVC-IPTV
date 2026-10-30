@@ -2,13 +2,6 @@
   "version": "1.0",
   "playlists": [
     {
-      "id": "Link0",
-      "name": "Chính",
-      "category": "IPTV0",
-      "url": "https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/api/iptv/link0.m3u",
-      "enabled": true
-    },
-    {
       "id": "Link1",
       "name": "Nguồn 1",
       "category": "IPTV1",
