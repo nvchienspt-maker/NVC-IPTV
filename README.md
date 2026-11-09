@@ -60,69 +60,25 @@ Tất cả các file M3U (bao gồm cả 3 file nguồn riêng và file master) 
 
 ## 🚀 Hướng Dẫn Sử Dụng & Đường Dẫn M3U Trực Tiếp
 
-### 1. Dành cho người dùng cuối (App NVC Tivi, TiviMate, OTT Navigator, VLC)
+### Dành cho người dùng cuối (App NVC Tivi, TiviMate, OTT Navigator, VLC)
 
 Bạn có thể dán trực tiếp đường dẫn M3U sau vào bất kỳ ứng dụng xem IPTV nào:
 
-* **File Tổng Hợp Master (Toàn diện nhất, gộp và lọc từ cả 3 nguồn):**
+* **File Tổng Hợp Master (Toàn diện nhất, gộp và lọc từ nhiều nguồn):**
   ```text
-  https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/nvctivi.m3u
+  https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/api/iptv/link0.m3u
   ```
 
-* **File Nguồn 1 (Giải mã từ VXM vxm.enc):**
-  ```text
-  https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/nvctivi_source1.m3u
-  ```
 
-* **File Nguồn 2 (Từ IPTV-Auto all.m3u):**
-  ```text
-  https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/nvctivi_source2.m3u
-  ```
-
-* **File Nguồn 3 (Từ VMTTV vmttv):**
-  ```text
-  https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/nvctivi_source3.m3u
-  ```
 
 * **Danh sách phát qua Cloudflare Worker (Có Proxy & tự động làm mới):**
   ```text
-  https://<your-worker-subdomain>.workers.dev/playlist.m3u
-  https://<your-worker-subdomain>.workers.dev/source1.m3u
-  https://<your-worker-subdomain>.workers.dev/source2.m3u
-  https://<your-worker-subdomain>.workers.dev/source3.m3u
+  Đang phát triển
   ```
 
 ---
 
-### 2. Dành cho lập trình viên (Developer Guide)
 
-#### Bước 1: Chạy công cụ Crawl và kiểm tra link sống cục bộ
-Chạy script tự động quét và lọc kênh:
-```bash
-python scripts/nvc_crawler.py
-```
-*Kết quả:* Script sẽ sinh ra file `nvctivi.m3u`, `nvctivi_proxy.m3u`, `nvctivi_channels.json` và bảng thống kê `REPORT_LIVE_CHANNELS.md`.
-
-#### Bước 2: Kiểm tra tính hợp lệ của Playlist
-```bash
-python scripts/update.py --validate-only
-```
-
-#### Bước 3: Triển khai Cloudflare Worker
-1. Cài đặt các thư viện Node.js:
-   ```bash
-   npm install
-   ```
-2. Kiểm tra mã nguồn Worker:
-   ```bash
-   npm run check
-   ```
-3. Deploy lên Cloudflare Workers:
-   ```bash
-   npm run deploy
-   ```
-
----
 
 ## ⚙️ Các Endpoint Của Cloudflare Worker
 
@@ -138,22 +94,6 @@ python scripts/update.py --validate-only
 
 ---
 
-## 🔄 Tự Động Hoá Bằng GitHub Actions
-
-Dự án đã được tích hợp sẵn quy trình **GitHub Actions** (`.github/workflows/sync.yml`) tự động chạy mỗi 4 tiếng:
-1. Tự động crawl và kiểm tra mọi liên kết streaming trong hệ thống.
-2. Tự động loại bỏ link chết và cập nhật luồng mới nhất.
-3. Tự động mã hóa và cập nhật `nvc.enc` đồng bộ.
-4. Tự động commit và đẩy các file M3U mới nhất lên kho lưu trữ.
-5. **Tự động ghi đè danh sách kênh sống vào repository `NVC-IPTV`** (`api/iptv/link0.m3u`) khi có cấu hình Secret `NVC_PAT`.
-
-### Hướng dẫn cấu hình tự động đồng bộ sang NVC-IPTV
-Để Action tự động ghi đè file `api/iptv/link0.m3u` trên repo `nvchienspt-maker/NVC-IPTV`:
-1. Vào **GitHub Settings** của bạn $\rightarrow$ **Developer Settings** $\rightarrow$ **Personal access tokens** $\rightarrow$ **Tokens (classic)**.
-2. Bấm **Generate new token (classic)**, đặt tên (ví dụ: `NVC_SYNC_TOKEN`), chọn quyền **`repo`** (Full control of private repositories) rồi bấm **Generate token** và sao chép mã token.
-3. Vào repo **`m3u`** $\rightarrow$ **Settings** $\rightarrow$ **Secrets and variables** $\rightarrow$ **Actions** $\rightarrow$ Bấm **New repository secret**.
-4. Đặt Name là: `NVC_PAT` và dán mã token vừa copy vào Value $\rightarrow$ Bấm **Add secret**.
-*Từ lần chạy tiếp theo, GitHub Action sẽ tự động đồng bộ và ghi đè nội dung kênh sống sang `api/iptv/link0.m3u` trên repo NVC-IPTV!*
 
 ---
 
