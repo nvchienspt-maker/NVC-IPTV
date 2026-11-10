@@ -1,4 +1,4 @@
 {
   "epg_url1": "https://epg.io.vn/epgu.xml",
-  "epg_url2": ""
+  "epg_url2": "https://epgvn.vercel.app/epgu.xml"
 }
