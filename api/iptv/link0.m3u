@@ -269,7 +269,7 @@ https://vietmitv.id.vn/c.php?k=fc923bf
 #KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/sctv/cleankey.php?id=sctv8
 https://vietmitv.id.vn/c.php?k=e1d0f56
 
-#EXTINF:-1 tvg-id="sctv9" tvg-name="SCTV9" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/sctv9.png" group-title="SCTV",SCTV9
+#EXTINF:-1 tvg-id="sctv9hd" tvg-name="SCTV9" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/sctv9hd.png" group-title="SCTV",SCTV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -305,7 +305,7 @@ https://vietmitv.id.vn/c.php?k=b92a0a7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://vmttv.dpdns.org/VTVGo/?sctv14
 
-#EXTINF:-1 tvg-id="sctv15" tvg-name="SCTV15" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/m3u/refs/heads/main/logos/sctv15.png" group-title="SCTV",SCTV15
+#EXTINF:-1 tvg-id="sctv15hd" tvg-name="SCTV15" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/sctv15hd.png" group-title="SCTV",SCTV15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -321,7 +321,7 @@ https://vietmitv.id.vn/c.php?k=a07d1b6
 #KODIPROP:inputstream.adaptive.license_key=https://tv.vietanhtv.top/sctv/cleankey.php?id=sctv16
 https://vietmitv.id.vn/c.php?k=d64f3bc
 
-#EXTINF:-1 tvg-id="sctv17" tvg-name="SCTV17" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/sctv17.png" group-title="SCTV",SCTV17
+#EXTINF:-1 tvg-id="sctv17hd" tvg-name="SCTV17" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/sctv17hd.png" group-title="SCTV",SCTV17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -618,79 +618,79 @@ https://vietmitv.id.vn/c.php?k=edd17cbf576e0ecd
 #KODIPROP:inputstream.adaptive.license_key=5014941a2c42379880b5edf72304c165:f3fa0fe3cd39a52f4eefd36ff7161e89
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="enc-cctv1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/enc-cctv1.png" group-title="Quốc Tế",CCTV1
+#EXTINF:-1 tvg-id="cctv1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/cctv1.png" group-title="Quốc Tế",CCTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://vietmitv.id.vn/c.php?k=712f28e
 
-#EXTINF:-1 tvg-id="enc-cctv2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/enc-cctv2.png" group-title="Quốc Tế",CCTV2
+#EXTINF:-1 tvg-id="cctv2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/cctv2.png" group-title="Quốc Tế",CCTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://vietmitv.id.vn/c.php?k=10c332e
 
-#EXTINF:-1 tvg-id="enc-cctv3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/enc-cctv3.png" group-title="Quốc Tế",CCTV3
+#EXTINF:-1 tvg-id="cctv3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/cctv3.png" group-title="Quốc Tế",CCTV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://vietmitv.id.vn/c.php?k=9a161b7
 
-#EXTINF:-1 tvg-id="enc-cctv4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/enc-cctv4.png" group-title="Quốc Tế",CCTV4
+#EXTINF:-1 tvg-id="cctv4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/cctv4.png" group-title="Quốc Tế",CCTV4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://vietmitv.id.vn/c.php?k=bc3a732
 
-#EXTINF:-1 tvg-id="enc-cctv6" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/enc-cctv6.png" group-title="Quốc Tế",CCTV6
+#EXTINF:-1 tvg-id="cctv6" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/cctv6.png" group-title="Quốc Tế",CCTV6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 http://74.91.26.218:82/live/cctv6hd.m3u8
 
-#EXTINF:-1 tvg-id="enc-cctv7" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/enc-cctv7.png" group-title="Quốc Tế",CCTV7
+#EXTINF:-1 tvg-id="cctv7" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/cctv7.png" group-title="Quốc Tế",CCTV7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://vietmitv.id.vn/c.php?k=004ed2b
 
-#EXTINF:-1 tvg-id="enc-cctv8" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/enc-cctv8.png" group-title="Quốc Tế",CCTV8
+#EXTINF:-1 tvg-id="cctv8" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/cctv8.png" group-title="Quốc Tế",CCTV8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://vietmitv.id.vn/c.php?k=3667033
 
-#EXTINF:-1 tvg-id="enc-cctv9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/enc-cctv9.png" group-title="Quốc Tế",CCTV9
+#EXTINF:-1 tvg-id="cctv9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/cctv9.png" group-title="Quốc Tế",CCTV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://vietmitv.id.vn/c.php?k=f448575
 
-#EXTINF:-1 tvg-id="enc-cctv10" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/enc-cctv10.png" group-title="Quốc Tế",CCTV10
+#EXTINF:-1 tvg-id="cctv10" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/cctv10.png" group-title="Quốc Tế",CCTV10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://vietmitv.id.vn/c.php?k=d8c22cf
 
-#EXTINF:-1 tvg-id="enc-cctv11" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/enc-cctv11.png" group-title="Quốc Tế",CCTV11
+#EXTINF:-1 tvg-id="cctv11" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/cctv11.png" group-title="Quốc Tế",CCTV11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://vietmitv.id.vn/c.php?k=0858a1c
 
-#EXTINF:-1 tvg-id="enc-cctv12" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/enc-cctv12.png" group-title="Quốc Tế",CCTV12
+#EXTINF:-1 tvg-id="cctv12" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/cctv12.png" group-title="Quốc Tế",CCTV12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 http://74.91.26.218:82/live/cctv12hd.m3u8
 
-#EXTINF:-1 tvg-id="enc-cctv13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/enc-cctv13.png" group-title="Quốc Tế",CCTV13
+#EXTINF:-1 tvg-id="cctv13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/cctv13.png" group-title="Quốc Tế",CCTV13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://vietmitv.id.vn/c.php?k=2e5409a
 
-#EXTINF:-1 tvg-id="enc-cctv14" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/enc-cctv14.png" group-title="Quốc Tế",CCTV14
+#EXTINF:-1 tvg-id="cctv14" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/cctv14.png" group-title="Quốc Tế",CCTV14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://vietmitv.id.vn/c.php?k=94d1bf4
 
-#EXTINF:-1 tvg-id="enc-cctv15" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/enc-cctv15.png" group-title="Quốc Tế",CCTV15
+#EXTINF:-1 tvg-id="cctv15" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/cctv15.png" group-title="Quốc Tế",CCTV15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://vietmitv.id.vn/c.php?k=849531d
 
-#EXTINF:-1 tvg-id="enc-cctv16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/enc-cctv16.png" group-title="Quốc Tế",CCTV16
+#EXTINF:-1 tvg-id="cctv16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/cctv16.png" group-title="Quốc Tế",CCTV16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://cdn.qd.je/163189/cctv16
 
-#EXTINF:-1 tvg-id="enc-cctv17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/enc-cctv17.png" group-title="Quốc Tế",CCTV17
+#EXTINF:-1 tvg-id="cctv17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/cctv17.png" group-title="Quốc Tế",CCTV17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://vietmitv.id.vn/c.php?k=62ef208
@@ -711,7 +711,7 @@ https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 
-#EXTINF:-1 tvg-id="animalhd" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/animalhd.png" group-title="Quốc Tế",Animal Planet
+#EXTINF:-1 tvg-id="animalhd" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/animal-planet.png" group-title="Quốc Tế",Animal Planet
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -723,7 +723,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://7pal.short.gy/ssportsf1
 
-#EXTINF:-1 tvg-id="bbcnewschannel" tvg-name="BBC News Channel" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/bbcnewschannel.png" group-title="Quốc Tế",BBC News Channel
+#EXTINF:-1 tvg-id="bbcnewschannel" tvg-name="BBC News Channel" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/bbcnews.png" group-title="Quốc Tế",BBC News Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.m3u8
 
@@ -900,7 +900,7 @@ https://vietmitv.id.vn/c.php?k=7c00981
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=60
 
-#EXTINF:-1 tvg-id="haiphongplus" tvg-name="Hải Phòng 3" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/haiphongplus.png" group-title="Địa Phương",Hải Phòng 3
+#EXTINF:-1 tvg-id="haiphongplus" tvg-name="Hải Phòng 3" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/haiphong1.png" group-title="Địa Phương",Hải Phòng 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=59
 
@@ -965,7 +965,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=53
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=255
 
-#EXTINF:-1 tvg-id="dongnai3" tvg-name="ĐNNRTV3" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/dongnai3.png" group-title="Địa Phương",ĐNNRTV3
+#EXTINF:-1 tvg-id="dongnai3" tvg-name="ĐNNRTV3" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/dnrtv3.png" group-title="Địa Phương",ĐNNRTV3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tv.vietanhtv.top/vieon/vieon.php?id=dong-nai-3
 
@@ -1013,11 +1013,11 @@ https://vmttv.dpdns.org/tv360/?id=khanh-hoa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="tayninh1" tvg-name="Tây Ninh TV" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/tayninh1.png" group-title="Địa Phương",Tây Ninh TV
+#EXTINF:-1 tvg-id="tayninh1" tvg-name="Tây Ninh TV" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/tayninhtv.png" group-title="Địa Phương",Tây Ninh TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=72
 
-#EXTINF:-1 tvg-id="dongthap1" tvg-name="THĐT1 HD" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/dongthap1.png" group-title="Địa Phương",THĐT1 HD
+#EXTINF:-1 tvg-id="dongthap1" tvg-name="THĐT1 HD" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/dongthap.png" group-title="Địa Phương",THĐT1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=54
 
@@ -1101,83 +1101,83 @@ https://freem3u.xyz/api/live/play.m3u8?vid=69
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=31
 
-#EXTINF:-1 tvg-id="danang" tvg-name="Đà Nẵng" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/danang.png" group-title="Địa Phương",Đà Nẵng
+#EXTINF:-1 tvg-id="danang" tvg-name="Đà Nẵng" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/danang1.png" group-title="Địa Phương",Đà Nẵng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://live.mediatech.vn/live/2858a998b1c7fbf4522accd5554588ceae3/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="qnr1quangninh" tvg-name="QNR1 - Quảng Ninh" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/qnr1quangninh.png" group-title="Địa Phương",QNR1 - Quảng Ninh
+#EXTINF:-1 tvg-id="qnr1quangninh" tvg-name="QNR1 - Quảng Ninh" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/quangninh1.png" group-title="Địa Phương",QNR1 - Quảng Ninh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 http://103.90.220.236/qtvlive/qnr1.m3u8
 
-#EXTINF:-1 tvg-id="qnr2quangninh" tvg-name="QNR2 - Quảng Ninh" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/qnr2quangninh.png" group-title="Địa Phương",QNR2 - Quảng Ninh
+#EXTINF:-1 tvg-id="qnr2quangninh" tvg-name="QNR2 - Quảng Ninh" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/quangninh3.png" group-title="Địa Phương",QNR2 - Quảng Ninh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 http://103.90.220.236/qtvlive/qnr2.m3u8
 
-#EXTINF:-1 tvg-id="hytvhdthhungyen" tvg-name="HYTV HD - TH HƯNG YÊN" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/hytvhdthhungyen.png" group-title="Địa Phương",HYTV HD - TH HƯNG YÊN
+#EXTINF:-1 tvg-id="hytvhdthhungyen" tvg-name="HYTV HD - TH HƯNG YÊN" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/hungyen.png" group-title="Địa Phương",HYTV HD - TH HƯNG YÊN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://HaNoiIPTV.short.gy/HaNoiIPTV-HYTV_HD-Truyen_hinh_Hung_Yen
 
-#EXTINF:-1 tvg-id="bhttvhdthbaohatinh" tvg-name="BHTTV HD - TH BÁO HÀ TĨNH" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/bhttvhdthbaohatinh.png" group-title="Địa Phương",BHTTV HD - TH BÁO HÀ TĨNH
+#EXTINF:-1 tvg-id="bhttvhdthbaohatinh" tvg-name="BHTTV HD - TH BÁO HÀ TĨNH" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/hatinh.png" group-title="Địa Phương",BHTTV HD - TH BÁO HÀ TĨNH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://HaNoiIPTV.short.gy/HaNoiIPTV-BHTTV_HD-Truyen_hinh_Bao_Ha_Tinh
 
-#EXTINF:-1 tvg-id="ttvththanhhoahd" tvg-name="TTV - TH THANH HÓA HD" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/ttvththanhhoahd.png" group-title="Địa Phương",TTV - TH THANH HÓA HD
+#EXTINF:-1 tvg-id="ttvththanhhoahd" tvg-name="TTV - TH THANH HÓA HD" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/thanhhoa.png" group-title="Địa Phương",TTV - TH THANH HÓA HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://HaNoiIPTV.short.gy/HaNoiIPTV-TTV-Truyen_hinh_Thanh_Hoa_HD
 
-#EXTINF:-1 tvg-id="ntvthngheanhd" tvg-name="NTV - TH NGHỆ AN HD" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/ntvthngheanhd.png" group-title="Địa Phương",NTV - TH NGHỆ AN HD
+#EXTINF:-1 tvg-id="ntvthngheanhd" tvg-name="NTV - TH NGHỆ AN HD" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/nghean.png" group-title="Địa Phương",NTV - TH NGHỆ AN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://HaNoiIPTV.short.gy/HaNoiIPTV-NTV-Truyen_hinh_Nghe_An_HD
 
-#EXTINF:-1 tvg-id="tn1ththainguyenhd" tvg-name="TN1 - TH THÁI NGUYÊN HD" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/tn1ththainguyenhd.png" group-title="Địa Phương",TN1 - TH THÁI NGUYÊN HD
+#EXTINF:-1 tvg-id="tn1ththainguyenhd" tvg-name="TN1 - TH THÁI NGUYÊN HD" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/thainguyen.png" group-title="Địa Phương",TN1 - TH THÁI NGUYÊN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://HaNoiIPTV.short.gy/HaNoiIPTV-TN1-Truyen_hinh_Thai_Nguyen_HD_du_phong
 
-#EXTINF:-1 tvg-id="btvthbacninhhd" tvg-name="BTV - TH BẮC NINH HD" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/btvthbacninhhd.png" group-title="Địa Phương",BTV - TH BẮC NINH HD
+#EXTINF:-1 tvg-id="btvthbacninhhd" tvg-name="BTV - TH BẮC NINH HD" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/bacninh.png" group-title="Địa Phương",BTV - TH BẮC NINH HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://HaNoiIPTV.short.gy/HaNoiIPTV-BTV-Truyen_hinh_Bac_Ninh_HD
 
-#EXTINF:-1 tvg-id="crtvthbaocaobanghd" tvg-name="CRTV - TH BÁO CAO BẰNG HD" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/crtvthbaocaobanghd.png" group-title="Địa Phương",CRTV - TH BÁO CAO BẰNG HD
+#EXTINF:-1 tvg-id="crtvthbaocaobanghd" tvg-name="CRTV - TH BÁO CAO BẰNG HD" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/caobang.png" group-title="Địa Phương",CRTV - TH BÁO CAO BẰNG HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://HaNoiIPTV.short.gy/HaNoiIPTV-CRTV-Truyen_hinh_Cao_Bang_HD
 
-#EXTINF:-1 tvg-id="nbtvthninhbinhhd" tvg-name="NBTV - TH NINH BÌNH HD" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/nbtvthninhbinhhd.png" group-title="Địa Phương",NBTV - TH NINH BÌNH HD
+#EXTINF:-1 tvg-id="nbtvthninhbinhhd" tvg-name="NBTV - TH NINH BÌNH HD" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/ninhbinh.png" group-title="Địa Phương",NBTV - TH NINH BÌNH HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://HaNoiIPTV.short.gy/HaNoiIPTV-NBTV-Truyen_hinh_Ninh_Binh_HD_du_phong
 
-#EXTINF:-1 tvg-id="thlcthlaocai" tvg-name="THLC - TH LÀO CAI" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/thlcthlaocai.png" group-title="Địa Phương",THLC - TH LÀO CAI
+#EXTINF:-1 tvg-id="thlcthlaocai" tvg-name="THLC - TH LÀO CAI" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/laocai.png" group-title="Địa Phương",THLC - TH LÀO CAI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://HaNoiIPTV.short.gy/HaNoiIPTV-THLC-Truyen_hinh_Lao_Cai
 
-#EXTINF:-1 tvg-id="ltvthlaichauhd" tvg-name="LTV - TH LAI CHÂU HD" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/ltvthlaichauhd.png" group-title="Địa Phương",LTV - TH LAI CHÂU HD
+#EXTINF:-1 tvg-id="ltvthlaichauhd" tvg-name="LTV - TH LAI CHÂU HD" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/laichau.png" group-title="Địa Phương",LTV - TH LAI CHÂU HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://HaNoiIPTV.short.gy/HaNoiIPTV-LTV-Truyen_hinh_Lai_Chau_HD
 
-#EXTINF:-1 tvg-id="dtvthdienbienhd" tvg-name="ĐTV - TH ĐIỆN BIÊN HD" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/dtvthdienbienhd.png" group-title="Địa Phương",ĐTV - TH ĐIỆN BIÊN HD
+#EXTINF:-1 tvg-id="dtvthdienbienhd" tvg-name="ĐTV - TH ĐIỆN BIÊN HD" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/dienbien.png" group-title="Địa Phương",ĐTV - TH ĐIỆN BIÊN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://HaNoiIPTV.short.gy/HaNoiIPTV-DTV-Truyen_hinh_Dien_Bien_HD
 
-#EXTINF:-1 tvg-id="stvthsonlahd" tvg-name="STV - TH SƠN LA HD" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/stvthsonlahd.png" group-title="Địa Phương",STV - TH SƠN LA HD
+#EXTINF:-1 tvg-id="stvthsonlahd" tvg-name="STV - TH SƠN LA HD" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/sonla.png" group-title="Địa Phương",STV - TH SƠN LA HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://HaNoiIPTV.short.gy/HaNoiIPTV-STV-Truyen_hinh_Son_La_HD
 
-#EXTINF:-1 tvg-id="ttvthtuyenquanghd" tvg-name="TTV - TH TUYÊN QUANG HD" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/ttvthtuyenquanghd.png" group-title="Địa Phương",TTV - TH TUYÊN QUANG HD
+#EXTINF:-1 tvg-id="ttvthtuyenquanghd" tvg-name="TTV - TH TUYÊN QUANG HD" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/tuyenquang.png" group-title="Địa Phương",TTV - TH TUYÊN QUANG HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://HaNoiIPTV.short.gy/HaNoiIPTV-TTV-Truyen_hinh_Tuyen_Quang_HD
 
-#EXTINF:-1 tvg-id="lstvhdthlangson" tvg-name="LSTV HD - TH LẠNG SƠN" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/lstvhdthlangson.png" group-title="Địa Phương",LSTV HD - TH LẠNG SƠN
+#EXTINF:-1 tvg-id="lstvhdthlangson" tvg-name="LSTV HD - TH LẠNG SƠN" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/langson.png" group-title="Địa Phương",LSTV HD - TH LẠNG SƠN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://HaNoiIPTV.short.gy/HaNoiIPTV-LSTV-Truyen_hinh_Lang_Son_HD
 
-#EXTINF:-1 tvg-id="huetvhdthtphue" tvg-name="HueTV HD - TH TP. HUẾ" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/huetvhdthtphue.png" group-title="Địa Phương",HueTV HD - TH TP. HUẾ
+#EXTINF:-1 tvg-id="huetvhdthtphue" tvg-name="HueTV HD - TH TP. HUẾ" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/hue.png" group-title="Địa Phương",HueTV HD - TH TP. HUẾ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://HaNoiIPTV.short.gy/HaNoiIPTV-HueTV-Truyen_hinh_Thanh_pho_Hue_HD
 
-#EXTINF:-1 tvg-id="qngtv1thquangngai1hd" tvg-name="QNgTV1 - TH QUẢNG NGÃI 1 HD" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/qngtv1thquangngai1hd.png" group-title="Địa Phương",QNgTV1 - TH QUẢNG NGÃI 1 HD
+#EXTINF:-1 tvg-id="qngtv1thquangngai1hd" tvg-name="QNgTV1 - TH QUẢNG NGÃI 1 HD" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/quangngai.png" group-title="Địa Phương",QNgTV1 - TH QUẢNG NGÃI 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://HaNoiIPTV.short.gy/HaNoiIPTV-QNgTV1-Truyen_hinh_Quang_Ngai_1
 
-#EXTINF:-1 tvg-id="qngtv2thquangngai2thunghiem" tvg-name="QNgTV2 - TH QUẢNG NGÃI 2 thử nghiệm" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/qngtv2thquangngai2thunghiem.png" group-title="Địa Phương",QNgTV2 - TH QUẢNG NGÃI 2 thử nghiệm
+#EXTINF:-1 tvg-id="qngtv2thquangngai2thunghiem" tvg-name="QNgTV2 - TH QUẢNG NGÃI 2 thử nghiệm" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/quangngai.png" group-title="Địa Phương",QNgTV2 - TH QUẢNG NGÃI 2 thử nghiệm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://HaNoiIPTV.short.gy/HaNoiIPTV-QNgTV2-Truyen_hinh_Quang_Ngai_2
 
@@ -1185,7 +1185,7 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-QNgTV2-Truyen_hinh_Quang_Ngai_2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://HaNoiIPTV.short.gy/HaNoiIPTV-LTV2-Truyen_hinh_Lam_Dong_2_HD
 
-#EXTINF:-1 tvg-id="thtnthtayninhhd" tvg-name="THTN - TH TÂY NINH HD" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/thtnthtayninhhd.png" group-title="Địa Phương",THTN - TH TÂY NINH HD
+#EXTINF:-1 tvg-id="thtnthtayninhhd" tvg-name="THTN - TH TÂY NINH HD" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/tayninhtv.png" group-title="Địa Phương",THTN - TH TÂY NINH HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://HaNoiIPTV.short.gy/HaNoiIPTV-TTV1-Truyen_hinh_Tay_Ninh_1_HD
 
@@ -1193,15 +1193,15 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-TTV1-Truyen_hinh_Tay_Ninh_1_HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://HaNoiIPTV.short.gy/HaNoiIPTV-ATV3-Truyen_hinh_An_Giang_3_HD
 
-#EXTINF:-1 tvg-id="ctvthcamauhd" tvg-name="CTV - TH CÀ MAU HD" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/ctvthcamauhd.png" group-title="Địa Phương",CTV - TH CÀ MAU HD
+#EXTINF:-1 tvg-id="ctvthcamauhd" tvg-name="CTV - TH CÀ MAU HD" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/camau.png" group-title="Địa Phương",CTV - TH CÀ MAU HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://HaNoiIPTV.short.gy/HaNoiIPTV-CTV-Truyen_hinh_Ca_Mau_HD
 
-#EXTINF:-1 tvg-id="fm978qnr1ptquangninh1" tvg-name="FM 97.8 • QNR1 - PT QUẢNG NINH 1" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/fm978qnr1ptquangninh1.png" group-title="Địa Phương",FM 97.8 • QNR1 - PT QUẢNG NINH 1
+#EXTINF:-1 tvg-id="fm978qnr1ptquangninh1" tvg-name="FM 97.8 • QNR1 - PT QUẢNG NINH 1" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/quangninh1.png" group-title="Địa Phương",FM 97.8 • QNR1 - PT QUẢNG NINH 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-QNR1-Phat_thanh_Quang_Ninh_1
 
-#EXTINF:-1 tvg-id="fm956pttuyenquang" tvg-name="FM 95.6 • PT TUYÊN QUANG" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/fm956pttuyenquang.png" group-title="Địa Phương",FM 95.6 • PT TUYÊN QUANG
+#EXTINF:-1 tvg-id="fm956pttuyenquang" tvg-name="FM 95.6 • PT TUYÊN QUANG" tvg-logo="https://raw.githubusercontent.com/nvchienspt-maker/NVC-IPTV/refs/heads/main/logos/tuyenquang.png" group-title="Địa Phương",FM 95.6 • PT TUYÊN QUANG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-TTV-Phat_thanh_Tuyen_Quang
 
